@@ -48,5 +48,11 @@
         "family": "eos",
         "device": "ql-eos-s3",
         "package": "PD64"
+    },
+    "qlf_k6n10-qlf_k6n10_gf12_board": {
+        "family": "qlf_k6n10",
+        "device": "qlf_k6n10",
+        "package": "PD64"
     }
+
 }
